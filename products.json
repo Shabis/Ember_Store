@@ -1,0 +1,17 @@
+{ "products": [{
+  "title": "iPhone 10 plus plus",
+  "image":"http://techforhunt.com/wp-content/uploads/2015/07/iPHone-10.jpg",
+  "description": "the tallest phone yet",
+  "price": 2999.00
+}, {
+  "title": "iCrystal",
+  "image":"https://i.ytimg.com/vi/YnM-aIi6wJc/hqdefault.jpg",
+  "description": "You've never seen a tablet like this before",
+  "price": 666.00
+}, {
+  "title":"iBangle",
+  "image":"https://s-media-cache-ak0.pinimg.com/564x/37/6c/71/376c711854d1302c842b5c6e7645e870.jpg",
+  "description":"iOpulence is yours",
+  "price":999.00
+  }]
+}

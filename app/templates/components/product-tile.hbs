@@ -1,0 +1,9 @@
+<h2>{{product.title}}</h2>
+
+<p>
+  <img src={{product.image}}>
+</p>
+<p>{{product.description}}</p>
+<p>${{product.price}}</p>
+
+<button {{action 'addToCart' product}}>Add To Cart</button>
